@@ -1,4 +1,5 @@
-javascript-assincrono-projeto-base
+# javascript-assincrono-projeto-base
+---
 
 Projeto desenvolvido com HTML, CSS e JavaScript, simulando uma plataforma de publicação de projetos para desenvolvedores pela aula do Alura.  CodeConnect
 
