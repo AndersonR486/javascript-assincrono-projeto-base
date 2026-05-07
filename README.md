@@ -19,7 +19,7 @@ A aplicação permite realizar upload de imagens, adicionar e remover tags dinam
 
 * HTML5
 * CSS3
-* JavaScript (ES6+)
+* JavaScript 
 
  Conceitos aplicados:
 
