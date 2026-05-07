@@ -1,29 +1,30 @@
 # javascript-assincrono-projeto-base
 ---
 
-Projeto desenvolvido com HTML, CSS e JavaScript, simulando uma plataforma de publicação de projetos para desenvolvedores pela aula do Alura.  CodeConnect
+A aplicação permite realizar upload de imagens, adicionar e remover tags dinamicamente, preencher informações do projeto e simular a publicação utilizando conceitos de JavaScript assíncrono (Promises e async/await).
 
-O aplicativo permite realizar upload de imagens, adicionar e remover tags dinamicamente, preencher informações do projeto e simular a publicação utilizando conceitos de JavaScript assíncronos pela (Promises e async/await).
+ Funcionalidades:
 
-Funcionalidades:
-
-Carregar e pré-visualizar imagens
+Upload e preview de imagens
 Cadastro de nome e descrição do projeto
 Sistema de tags dinâmicas
 Validação de tags disponíveis
 Simulação de publicação de projetos
 Botão de descarte/reset do formulário
-co utilizado:
+
+ Tecnologias utilizadas:
 
 HTML5
 CSS3
 JavaScript (ES6+)
-conceitos aplicados:
+
+ Conceitos aplicados:
 
 Manipulação do DOM
 Eventos
-Assíncrono/Aguardar
-Promessas
-API FileReader
-Responsividade e estilo moderno
-Projeto criado com foco em prática de desenvolvimento front-end e interação dinâmica com o usuário.
+Async/Await
+Promises
+FileReader API
+Responsividade e estilização moderna
+
+Projeto criado com foco em prática de desenvolvimento front-end e interação dinâmica com o usuário
